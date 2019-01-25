@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+#freecssfooter{display:block;width:100%;padding:120px 0 20px;overflow:hidden;background-color:transparent;z-index:5000;text-align:center;}
+#freecssfooter div#fcssholder div{display:none;}
+#freecssfooter div#fcssholder div:first-child{display:block;}
+#freecssfooter div#fcssholder div:first-child a{float:none;margin:0 auto;}
+.pt-3-half {
+padding-top: 1.4rem;
+}
+td #input{
+    border:none;
+}
