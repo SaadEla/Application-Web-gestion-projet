@@ -1,9 +1,17 @@
 # Application-Web-gestion-projet
--->JEE-JSTL-HIBERNATE
--->Un modele MVC réspecté
--->Utilisation de plusieurs technologies tel que jstl, jsp, hibernate, api log4j 
--->Quelques pages sont en Hibernate suite au contrainte de travail 
-## Intro
+
+
+
+Les concepts suivants sont abordés dans ce projet : 
+   - Créer une base de données mysql 
+   - Effectuer le mapping objet relationnel avec JDBC 
+   - Utiliser le pilote JDBC 
+   - Respecter le pattern MVC 
+   - Créer une servlet 
+   - Déployer une servlet :web.xml
+   - Créer une JSP en utilisant JSTL 
+   - Créer une feuille de style CSS 
+
 
 ![image](https://user-images.githubusercontent.com/45466806/59231859-11d7d680-8bda-11e9-8c5f-5bd7336dfe66.png)
-![image](https://user-images.githubusercontent.com/45466806/59231914-40ee4800-8bda-11e9-809f-8ac6d30b222e.png)
+
